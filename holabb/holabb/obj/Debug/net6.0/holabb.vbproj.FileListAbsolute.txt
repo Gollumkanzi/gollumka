@@ -1,0 +1,15 @@
+C:\Users\Usuario.LAB2-PC20\Desktop\KENYA MEDINA 6TM56\holabb\holabb\bin\Debug\net6.0\holabb.exe
+C:\Users\Usuario.LAB2-PC20\Desktop\KENYA MEDINA 6TM56\holabb\holabb\bin\Debug\net6.0\holabb.deps.json
+C:\Users\Usuario.LAB2-PC20\Desktop\KENYA MEDINA 6TM56\holabb\holabb\bin\Debug\net6.0\holabb.runtimeconfig.json
+C:\Users\Usuario.LAB2-PC20\Desktop\KENYA MEDINA 6TM56\holabb\holabb\bin\Debug\net6.0\holabb.dll
+C:\Users\Usuario.LAB2-PC20\Desktop\KENYA MEDINA 6TM56\holabb\holabb\bin\Debug\net6.0\ref\holabb.dll
+C:\Users\Usuario.LAB2-PC20\Desktop\KENYA MEDINA 6TM56\holabb\holabb\bin\Debug\net6.0\holabb.pdb
+C:\Users\Usuario.LAB2-PC20\Desktop\KENYA MEDINA 6TM56\holabb\holabb\obj\Debug\net6.0\holabb.vbproj.AssemblyReference.cache
+C:\Users\Usuario.LAB2-PC20\Desktop\KENYA MEDINA 6TM56\holabb\holabb\obj\Debug\net6.0\holabb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario.LAB2-PC20\Desktop\KENYA MEDINA 6TM56\holabb\holabb\obj\Debug\net6.0\holabb.AssemblyInfoInputs.cache
+C:\Users\Usuario.LAB2-PC20\Desktop\KENYA MEDINA 6TM56\holabb\holabb\obj\Debug\net6.0\holabb.AssemblyInfo.vb
+C:\Users\Usuario.LAB2-PC20\Desktop\KENYA MEDINA 6TM56\holabb\holabb\obj\Debug\net6.0\holabb.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario.LAB2-PC20\Desktop\KENYA MEDINA 6TM56\holabb\holabb\obj\Debug\net6.0\holabb.dll
+C:\Users\Usuario.LAB2-PC20\Desktop\KENYA MEDINA 6TM56\holabb\holabb\obj\Debug\net6.0\ref\holabb.dll
+C:\Users\Usuario.LAB2-PC20\Desktop\KENYA MEDINA 6TM56\holabb\holabb\obj\Debug\net6.0\holabb.pdb
+C:\Users\Usuario.LAB2-PC20\Desktop\KENYA MEDINA 6TM56\holabb\holabb\obj\Debug\net6.0\holabb.genruntimeconfig.cache
